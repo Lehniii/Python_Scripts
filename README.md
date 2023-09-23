@@ -7,3 +7,10 @@ This script organizes files from a source directory into different destination f
 
 **Usage:**
 python sortfiles.py -sourcepath "sourcepath" -destinationpath "destinationpath"
+
+
+### download_duplicates.py
+This script automatically finds and removes duplicate files with appended numbers in the filenames from your Windows Downloads folder, helping you keep your Downloads folder organized and clutter-free. Use it with caution and consider backing up important files before running the script.
+
+**Usage:**
+python download_duplicates.py
