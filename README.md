@@ -29,6 +29,4 @@ pip install pyperclip
 
 python password.py
 
-Type your password length
-
-Type yes/no if you want special characters
+Type your password length then type yes/no if you want special characters
