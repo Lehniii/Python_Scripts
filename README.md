@@ -16,6 +16,9 @@ This script automatically finds and removes duplicate files with appended number
 python download_duplicates.py
 
 
+
+
+
 ## Tools
 ### password.py
 This script generates random passwords of user-defined length and optionally includes special characters. It copies the generated password to the clipboard.
