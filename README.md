@@ -30,3 +30,11 @@ pip install pyperclip
 python password.py
 
 Type your password length then type yes/no if you want special characters
+
+
+### ToDoPy.py
+This script is a simple ToDo List managing app with a tkinter UI. It saves the ToDo's on close of the app in a textfile called todo_list.txt. A Icon.png in the Basefolder is required. The provided icon is from: <a href="https://www.flaticon.com/de/kostenlose-icons/liste" title="liste Icons">List Icon created by Kiranshastry - Flaticon</a>
+
+**Usage:**
+python ToDoPy.py
+Then use the simple UI
