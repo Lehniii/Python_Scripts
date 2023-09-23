@@ -24,7 +24,7 @@ python download_duplicates.py
 This script generates random passwords of user-defined length and optionally includes special characters. It copies the generated password to the clipboard.
 
 **Usage:**
-pip install pyperclip
+pip install pyperclip /n
 python password.py
 Type your password length
 Type yes/no if you want special characters
