@@ -1,5 +1,5 @@
 # Python_Scripts
-Just some scripts i have coded feel free to use and change
+Just some scripts feel free to use and change
 
 ## Organizing:
 ### sortfiles.py
