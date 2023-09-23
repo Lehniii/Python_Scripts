@@ -37,4 +37,5 @@ This script is a simple ToDo List managing app with a tkinter UI. It saves the T
 
 **Usage:**
 python ToDoPy.py
+
 Then use the simple UI
